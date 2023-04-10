@@ -44,6 +44,6 @@ header nav ul li a {
     transition: all 250ms linear 0s;
 }
 
-header {
-    height: 30px;
+header img {
+    height: 40px;
 }
